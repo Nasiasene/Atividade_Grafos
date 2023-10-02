@@ -1,7 +1,7 @@
 # Atividade_Grafos
 Respositório destinado a uma atividade da matéria de Estrutura de Dados ministrada pelo professor Gilberto.
 
-+ Implemente a estrutura grafo com representação em: Matriz de Adjacência e Lista de Adjacência. Depois implemente as seguintes atividades:
+# Implemente a estrutura grafo com representação em: Matriz de Adjacência e Lista de Adjacência. Depois implemente as seguintes atividades:
 
 -  Leitor dos arquivos e carregamento das estruturas do grafo
 -  Busca em largura (BFS)
