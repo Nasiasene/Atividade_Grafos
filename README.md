@@ -24,7 +24,7 @@ esquema de encadeamento separado duplo.
 Aplique a função hash para direcionar o elemento da chave c
 em uma das outras tabelas do segundo nível;
 
-    -No segundo nível cada tabela é composta por um vetor de n/10
+    - No segundo nível cada tabela é composta por um vetor de n/10
 listas de objetos a serem armazenados. Uma segunda função
 hash diferente da primeira deve ser definida para direcionar a
 chave c em uma das listas específicas
