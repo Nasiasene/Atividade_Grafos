@@ -13,7 +13,7 @@ Respositório destinado a duas atividades da matéria de Estrutura de Dados mini
     - Reimplemente o DFS com auxílio de uma pilha para
       eliminar a recursão da implementação.
 
-#aTIVIDADE 2(Tabela Hash):
+#ATIVIDADE 2(Tabela Hash):
 1. Implementar uma estrutura de tabela hash para armazenar n objetos
 com encadeamento separado duplo. No encadeamento duplo existem
 dois níveis de endereçamento, nos dois o mapeamento da chave ao
