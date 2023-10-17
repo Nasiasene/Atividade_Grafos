@@ -2,7 +2,7 @@
 Respositório destinado a duas atividades da matéria de Estrutura de Dados ministrada pelo professor Gilberto.
 
 
-#ATIVIDADE 1(Grafos):
+# ATIVIDADE 1(Grafos):
 + Implemente a estrutura grafo com representação em: Matriz de Adjacência e Lista de Adjacência. Depois implemente as seguintes atividades:
 
 -  Leitor dos arquivos e carregamento das estruturas do grafo
@@ -13,7 +13,7 @@ Respositório destinado a duas atividades da matéria de Estrutura de Dados mini
     - Reimplemente o DFS com auxílio de uma pilha para
       eliminar a recursão da implementação.
 
-#ATIVIDADE 2(Tabela Hash):
+# ATIVIDADE 2(Tabela Hash):
 - Implementar uma estrutura de tabela hash para armazenar n objetos
 com encadeamento separado duplo. No encadeamento duplo existem
 dois níveis de endereçamento, nos dois o mapeamento da chave ao
